@@ -23,7 +23,7 @@
         android:layout_marginTop="32dp"
         android:text="Total"
         app:layout_constraintTop_toBottomOf="@+id/tvTipLabel"
-        tools:layout_editor_absoluteX="24dp" />
+        tools:layout_editor_absoluteX="32dp" />
 
     <TextView
         android:id="@+id/tvTipPercentLabel"
